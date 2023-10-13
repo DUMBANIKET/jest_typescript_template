@@ -1,0 +1,1 @@
+# jest_typescript_template
